@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDatabase/JavaDatabase.iml" filepath="$PROJECT_DIR$/JavaDatabase/JavaDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+    </modules>
+  </component>
+</project>
